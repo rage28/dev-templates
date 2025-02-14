@@ -198,6 +198,11 @@
           description = "Lean 4 development environment";
         };
 
+        lua = {
+          path = ./lua;
+          description = "Lua development environment";
+        };
+
         nickel = {
           path = ./nickel;
           description = "Nickel development environment";
